@@ -1,8 +1,8 @@
 # BITS Cloud Platform
 
-Welcome to the official GitHub Organization of **BITS Cloud Platform**.
+Welcome to the official GitHub Organization of **BITS Cloud Platform** (by **Banten IT Solutions**).
 
-We build modern cloud infrastructure, self-hosted platforms, automation tools, and open-source software.
+We build reliable cloud infrastructure, automation tools, and developer platforms — powered by open-source technologies.
 
 ---
 
@@ -45,12 +45,10 @@ We build modern cloud infrastructure, self-hosted platforms, automation tools, a
 
 ## 📦 Featured Projects
 
-- BITS Panel
-- BITS Deploy
-- BITS Backup
-- BITS DNS
-- BITS Auth
-- BITS Monitoring
+- **[BITS-Todo](https://github.com/BITS-Cloud-Platform/BITS-Todo)** — Full-stack task management app with Google OAuth, Better Auth, and Docker deployment.
+- **[BITS-Youtube-Mp3-Downloader](https://github.com/BITS-Cloud-Platform/BITS-Youtube-Mp3-Downloader)** — YouTube audio downloader with playlist support, cookie upload, and admin controls.
+- **[BITS-Uptime-Monitoring](https://github.com/BITS-Cloud-Platform/BITS-Uptime-Monitoring)** — Production uptime monitoring service for websites, APIs, and services maintained by Banten IT Solutions.
+- **[BITS-AI-Gateway](https://github.com/BITS-Cloud-Platform/BITS-AI-Gateway)** — Docker-based AI gateway and routing proxy for secure service access.
 
 ---
 
@@ -68,4 +66,4 @@ Website:
 https://bits.co.id
 
 Email:
-opensource@bits.co.id
+admin@bits.co.id
